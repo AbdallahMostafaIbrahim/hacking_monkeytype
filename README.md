@@ -1,4 +1,4 @@
-# hacking_monkeytype
+# Monkey Type please dont kill me
 show off your typing speed but not really
 
 [You obviously need Node js installed](https://nodejs.org/en/download/)
